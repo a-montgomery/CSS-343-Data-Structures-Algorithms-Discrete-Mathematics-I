@@ -15,5 +15,6 @@ The Jolly Banker is a banking application which processes transactions. The appl
 
 # Major Deliverables
 
+-- Design documentation
 -- All relevant C++ Source and Header files\
 -- An output file called: BankTransOut.txt. This is Output of your program running the sample input
